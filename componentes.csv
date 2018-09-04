@@ -1,0 +1,20 @@
+1;PC;Tarjeta Madre
+2;PC;Memoria RAM
+3;PC;Fuente de Energia
+4;PC;Disco Duro
+5;PC;Dispositivo Solo Lectura
+6;PC;Procesador
+7;PC;Bus IDE
+8;PC;Bus SATA
+9;PC;Monitor
+10;PC;Teclado
+11;PC;Mouse
+12;PC;Impresora
+13;PC;Camara Frontal
+14;PC;Cable VGA
+15;Redes;Tarjeta de Red
+16;Redes;Router
+17;Redes;Switch
+18;Redes;Gateways
+19;Redes;Repetidor
+20;Redes;Cable UTP-8
